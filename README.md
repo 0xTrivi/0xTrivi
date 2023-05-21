@@ -5,4 +5,6 @@ Currently, I am programming in Python, although I also have experience in C, C++
 
 🌱 I am learning and applying everything I can about Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana and obviously cloud (in this case, AWS), so if you have any resources or experiences to share, let me know!
 
+I also enjoy topics related to artificial intelligence, algorithms and blockchain-based technologies.
+
 👨‍💻 In my current job, I also develop clinical management and CRM applications through integrations with FileMaker Claris. So, if by chance you use this software or have any interest in a related topic, feel free to ask me without any obligation!
